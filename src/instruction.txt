@@ -1,0 +1,8 @@
+ok so run 
+sudo django-admin startproject [project Name]
+
+Then after you have the project created you can run
+
+python manage.py migrate
+
+python manage.py runserver 
